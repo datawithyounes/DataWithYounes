@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [linkedin.com/in/younesagegal/](https://www.linkedin.com/in/younesagegal/)
 
-- 💬 Ask me about **What solid approach you should take to outgrow your business competitors**
+- 💬 Ask me about **What solid approach you should take to outgrow your business competitors?**
 
 - 📄 Know about my experiences [www.datawithyounes.tech](www.datawithyounes.tech)
 
