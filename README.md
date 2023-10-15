@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Younes AGABI</h1>
+<h1 align="center">Hi 👋, I'm Younes AGEGAL</h1>
 <h3 align="center">I'm a Data Analyst & Data Visualization enthusiast. I have solid experience in getting valuable insights from raw data & communicating it with stakeholders. Proficient in Python, SQL, R and Data Viz tools 🚀.</h3>
 
 - 👨‍💻 All of my projects are available at [www.datawithyounes.tech](www.datawithyounes.tech)
